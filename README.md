@@ -153,6 +153,6 @@ new content and backend integration (Auth.js, Postgres/Drizzle, S3/CDN) slot in 
 
 <div align="center">
 
-Built from [`../prd.md`](../prd.md) · Happy questing 🚀
+Built by Ayush  · Happy questing 🚀
 
 </div>
